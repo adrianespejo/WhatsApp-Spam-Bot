@@ -26,3 +26,5 @@ function spam() {
         counter++;
     }
 }
+
+spam()
